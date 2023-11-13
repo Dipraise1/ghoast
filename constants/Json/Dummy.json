@@ -1,0 +1,84 @@
+{
+  "roadMap": {
+    "phase1": [
+  
+      "......",
+      "Identify Potential Partners For Early Collaboration.",
+      "Create A Strong, Collaborative, Including Community. ",
+      "Publish A Litepaper."
+    ],
+    "phase2": [
+      " Launch A New User-Friendly Dapp.",
+      " Optimize The Project's Metrics For CoinMarketCap.",
+      "Apply For Listings On Both Platforms. ",
+      " Finalize Website's Look To Align With Brand Image. ",
+      "Peparation Of Marketing Campagne For Phase 3."
+    ],
+    "phase3": [
+      " Increase Liquidity Pool Through Incentives",
+      " Boost Trading Volume With Reward Programs.",
+      "Launch 'Burning Or Gold' Marketing Campaign.",
+      "  Encourage Organic Community Growth. "
+    ],
+    "phase4": [
+      " Prepare For Listing On A Reputable Crypto Exchange.",
+      " Design And Launch GHOST AI Merchandise.",
+      "Use Exchange Listing To Attract New Investors. ",
+      "  Create A New Roadmap For The Next Phase Based On Feedback. "
+    ]
+  },
+  "downloadProfilePics": {
+    "pics": [
+      {
+        "pic": "/Assets/ProfilePics/pic1.png",
+        "route": "https://www.GHOST AI.com/gallery/png-01.png"
+      },
+      {
+        "pic": "/Assets/ProfilePics/pic2.png",
+        "route": "https://www.GHOST AI.com/gallery/png-02.png"
+      },
+      {
+        "pic": "/Assets/ProfilePics/pic3.png",
+        "route": "https://www.GHOST AI.com/gallery/png-03.png"
+      },
+      {
+        "pic": "/Assets/ProfilePics/pic4.png",
+        "route": "https://www.GHOST AI.com/gallery/png-04.png"
+      }
+    ]
+  },
+  "Tokenomics":{
+    "tokenList" : [
+        {
+          "title": "Network",
+          "text": "ethereum "
+        },
+        {
+          "title": "Token Symbol",
+          "text": "$DC"
+        },
+        {
+          "title": "Token Supply",
+          "text": "100,000,000"
+        },
+        {
+          "title": "Initial liquidity",
+          "text": "50%"
+        },
+        {
+          "title": "Contract",
+          "text": ".........."
+        },
+        {
+          "title": "LP Lock",
+          "text": "Visit CoinScope",
+          "link": "https://www.coinscope.co/lockers/token/0xc47672cd8f50Ae03156684cB523B1ED4BB349f2F"
+        },
+        {
+          "title": "Token Locks",
+          "text": "Visit CoinScope",
+          "link": "https://www.coinscope.co/lockers/token/0xc47672cd8f50Ae03156684cB523B1ED4BB349f2F"
+        }
+      ]
+  }
+}
